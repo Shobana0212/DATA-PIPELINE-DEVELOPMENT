@@ -1,0 +1,16 @@
+age,income,gender,occupation,target
+25,50000.0,Male,Engineer,1
+30,60000.0,Female,Doctor,0
+35,,Male,Lawyer,1
+40,80000.0,Female,Engineer,0
+28,55000.0,,Artist,1
+50,100000.0,Male,,0
+32,62000.0,Female,Nurse,1
+45,75000.0,Male,Scientist,0
+38,,Female,Teacher,1
+29,58000.0,Male,Artist,0
+60,110000.0,Female,Manager,1
+22,48000.0,Male,Doctor,0
+33,63000.0,Female,Lawyer,1
+44,77000.0,,Engineer,0
+27,52000.0,Male,Teacher,1
