@@ -1,3 +1,13 @@
+
+## 🏢 Internship Details
+
+- **Company**: CODTECH IT SOLUTIONS  
+- **Intern Name**: Shobana Balusamy
+- **Intern ID**: CITS0D117  
+- **Domain**: Data Science
+- **Duration**: 4 Weeks  
+- **Mentor**: Neela Santosh  
+
 # 📊 ETL Pipeline using Pandas and Scikit-Learn
 
 This project demonstrates a full **ETL (Extract, Transform, Load)** pipeline using Python. It is designed to show how raw data can be cleaned, transformed, and prepared for machine learning in a reproducible, automated, and scalable way.
